@@ -69,6 +69,7 @@ The following are some research internships offered or funded by Indian Institut
 - [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
 - [IIITD Summer Internship](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
 - [Summer Research Fellowship Programme 2022](https://webjapps.ias.ac.in/fellowship2022/), IISc, IAS, INS
+- [Focus Area Science Technology Summer Fellowship 2022](https://webjapps.ias.ac.in/fastsf2022/), IISc, IAS, INS, for North Eastern States. 
 - [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 - [Internship At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
 - [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
